@@ -1,0 +1,152 @@
+{
+    "name": "Fungi",
+    "children": [
+      {
+        "name": "ECM",
+        "children": [
+          {
+            "name": "Trees",
+            "children": [
+              {
+                "name": "Coniferous",
+                "children": [
+                  { "name": "Redwood (Coastal)", "scientific_name": "Sequoia sempervirens" },
+                  { "name": "Douglas Fir", "scientific_name": "Pseudotsuga menziesii" },
+                  { "name": "White Fir", "scientific_name": "Abies concolor" },
+                  { "name": "Black Spruce", "scientific_name": "Picea mariana" },
+                  { "name": "Sitka Spruce", "scientific_name": "Picea sitchensis" },
+                  { "name": "Hemlock", "scientific_name": "Tsuga heterophylla" },
+                  { "name": "Pine", "scientific_name": "Pinus" },
+                  { "name": "Larch", "scientific_name": "Larix" },
+                  { "name": "Tamarack", "scientific_name": "Larix laricina" },
+                  { "name": "Cedar", "scientific_name": "Cedrus" }
+                ]
+              },
+              {
+                "name": "Deciduous",
+                "children": [
+                  { "name": "Beech", "scientific_name": "Fagus" },
+                  { "name": "Aspen", "scientific_name": "Populus tremuloides" },
+                  { "name": "Birch", "scientific_name": "Betula" },
+                  { "name": "Poplar", "scientific_name": "Populus" },
+                  { "name": "Oak", "scientific_name": "Quercus" },
+                  { "name": "Chestnut", "scientific_name": "Castanea" },
+                  { "name": "Willow", "scientific_name": "Salix" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EM (AMF)",
+        "children": [
+          {
+            "name": "Trees",
+            "children": [
+              {
+                "name": "Coniferous",
+                "children": [
+                  { "name": "Juniper", "scientific_name": "Juniperus" },
+                  { "name": "Cypress", "scientific_name": "Cupressus" }
+                ]
+              },
+              {
+                "name": "Deciduous",
+                "children": [
+                  { "name": "Elm", "scientific_name": "Ulmus" },
+                  { "name": "Ash", "scientific_name": "Fraxinus" },
+                  { "name": "Dogwood", "scientific_name": "Cornus" },
+                  { "name": "Elder", "scientific_name": "Sambucus" },
+                  { "name": "Maple", "scientific_name": "Acer" },
+                  { "name": "Sycamore", "scientific_name": "Platanus occidentalis" },
+                  { "name": "Russian Olive", "scientific_name": "Elaeagnus angustifolia" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Perennial Plants",
+            "children": [
+              { "name": "Sage", "scientific_name": "Salvia officinalis" },
+              { "name": "Sagebrush", "scientific_name": "Artemisia tridentata" },
+              { "name": "Spleenworts (fern)", "scientific_name": "Asplenium" },
+              { "name": "Rose", "scientific_name": "Rosa" },
+              { "name": "Wormwood", "scientific_name": "Artemisia arborescens" },
+              { "name": "Fescue", "scientific_name": "Festuca" },
+              { "name": "Pampas Grass", "scientific_name": "Cortaderia selloana" },
+              { "name": "Currant", "scientific_name": "Ribes" },
+              { "name": "Magnolia", "scientific_name": "Magnolia" }
+            ]
+          },
+          {
+            "name": "Ephemeral Plants",
+            "children": [
+              { "name": "Marigold", "scientific_name": "Tagetes" },
+              { "name": "Cheeseweed", "scientific_name": "Pittosporum" },
+              { "name": "Touch-me-not", "scientific_name": "Impatiens" },
+              { "name": "Hibiscus", "scientific_name": "Hibiscus" },
+              { "name": "Nasturtium", "scientific_name": "Tropaeolum" },
+              { "name": "Begonia", "scientific_name": "Begonia" },
+              { "name": "Poppy", "scientific_name": "Papaver somniferum" },
+              { "name": "Trout Lily", "scientific_name": "Erythronium" },
+              { "name": "Bloodroot", "scientific_name": "Sanguinaria" },
+              { "name": "Toothwort", "scientific_name": "Cardamine concatenata" }
+            ]
+          },
+          {
+            "name": "Agricultural Crops",
+            "children": [
+              { "name": "Rice", "scientific_name": "Oryza sativa" },
+              { "name": "Corn", "scientific_name": "Zea mays" },
+              { "name": "Cucumber", "scientific_name": "Cucumis sativus" },
+              { "name": "Alfalfa", "scientific_name": "Medicago sativa" },
+              { "name": "Apple", "scientific_name": "Malus domestica" },
+              { "name": "Apricot", "scientific_name": "Prunus armeniaca" },
+              { "name": "Asparagus", "scientific_name": "Asparagus officinalis" },
+              { "name": "Artichoke", "scientific_name": "Cynara scolymus" },
+              { "name": "Avocado", "scientific_name": "Persea americana" },
+              { "name": "Banana", "scientific_name": "Musa spp." },
+              { "name": "Basil", "scientific_name": "Ocimum basilicum" },
+              { "name": "Beans", "scientific_name": "Phaseolus spp." },
+              { "name": "Blackberries", "scientific_name": "Rubus fruticosus" },
+              { "name": "Celery", "scientific_name": "Apium graveolens" },
+              { "name": "Coffee", "scientific_name": "Coffea spp." },
+              { "name": "Fig", "scientific_name": "Ficus carica" },
+              { "name": "Eggplant", "scientific_name": "Solanum melongena" },
+              { "name": "Tomato", "scientific_name": "Solanum lycopersicum" },
+              { "name": "Wheat", "scientific_name": "Triticum aestivum" },
+              { "name": "Yam", "scientific_name": "Dioscorea spp." },
+              { "name": "Sugarcane", "scientific_name": "Saccharum officinarum" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "children": [
+          {
+            "name": "Perennial Plants",
+            "children": [
+              { "name": "Orchids", "scientific_name": "Orchidaceae", "mycorrhiza": "Orchid mycorrhizas" },
+              { "name": "Heather", "scientific_name": "Calluna vulgaris", "mycorrhiza": "Ericoid Mycorrhizas" }
+            ]
+          },
+          {
+            "name": "Ephemeral Plants",
+            "children": [
+              { "name": "Tassel Flower", "scientific_name": "Emilia", "mycorrhiza": "Ericoid Mycorrhizas" }
+            ]
+          },
+          {
+            "name": "Agricultural Crops",
+            "children": [
+              { "name": "Blueberry", "scientific_name": "Vaccinium sect. Cyanococcus", "mycorrhiza": "Ericoid Mycorrhizas" },
+              { "name": "Cranberry", "scientific_name": "Vaccinium subg. Oxycoccus", "mycorrhiza": "Ericoid Mycorrhizas" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
